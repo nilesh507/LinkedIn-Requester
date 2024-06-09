@@ -7,7 +7,7 @@
 
 ## Description:
 
--   developed a Python script using Selenium and Beautiful-soup to automate the process of sending connection request on LinkedIn
+-   developed a Python script using Selenium and Beautiful-soup to automate the process of sending connection requests on LinkedIn
 -   Sent connection requests, each accompanied by a 300-character personal note, asking for referrals from individuals
     working at a specific location, or company, and with a particular job title.
 
