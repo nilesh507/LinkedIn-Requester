@@ -1,14 +1,14 @@
-# things used:
+# Technologies Used:
 
 -   beautiful soup
 -   selenium
--   python
+-   Python
 -   firefox driver
 
-what i did:
+## Description:
 
--   developed a python script using selenium and beautiful soup to automate the process of sending connection request on linkedin
--   Sent connection request, each accompanied by a 300-character personal note, asking for referrals from individuals
-    working at a specific location, company, and with a particular job title.
+-   developed a Python script using Selenium and Beautiful-soup to automate the process of sending connection request on LinkedIn
+-   Sent connection requests, each accompanied by a 300-character personal note, asking for referrals from individuals
+    working at a specific location, or company, and with a particular job title.
 
-asking for refral from people working at specific location, company and title
+Used to request for referrals from people working at specific locations, Company, and Title
